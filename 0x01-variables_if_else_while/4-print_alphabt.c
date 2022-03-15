@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 int main(void)
 {
 char ch = 'a';
@@ -15,6 +16,7 @@ return 0;
 }
 
 #include <stdio.h>
+
 int main(void)
 {
 for (char ch = 'a'; ch <= 'z'; ch++)
@@ -27,6 +29,7 @@ putchar(ch);
 putchar('\n');
 return 0;  
 }
+
 int main(void)
 {
 for (char ch ='a'; ch <= 'z'; ch++)
