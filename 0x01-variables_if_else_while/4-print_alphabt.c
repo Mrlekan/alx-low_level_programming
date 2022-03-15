@@ -1,9 +1,7 @@
 #include <stdio.h>
-
 int main(void)
 {
 char ch = 'a';
-
 while(ch <= 'z')
 {
 if (ch != 'e' && ch != 'q')
@@ -17,7 +15,6 @@ return 0;
 }
 
 #include <stdio.h>
-
 int main(void)
 {
 for (char ch = 'a'; ch <= 'z'; ch++)
