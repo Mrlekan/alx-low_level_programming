@@ -18,6 +18,5 @@ isupper = 1;
 break;
 }
 }
-
 return (isupper);
 }
